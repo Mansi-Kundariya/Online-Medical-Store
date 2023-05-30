@@ -1,0 +1,53 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Projects\\WSD_Project\\Online Medical Store\\Online Medical Store\\wwwroot\\Azithromycin-unimax Laboratries.webp",
+      "PackagePath": "staticwebassets\\Azithromycin-unimax Laboratries.webp"
+    },
+    {
+      "Id": "D:\\Projects\\WSD_Project\\Online Medical Store\\Online Medical Store\\wwwroot\\CyclopamTablet-Indoco Remedies Ltd.webp",
+      "PackagePath": "staticwebassets\\CyclopamTablet-Indoco Remedies Ltd.webp"
+    },
+    {
+      "Id": "D:\\Projects\\WSD_Project\\Online Medical Store\\Online Medical Store\\wwwroot\\Diominic DCA-Unison Pharmaceuticals.webp",
+      "PackagePath": "staticwebassets\\Diominic DCA-Unison Pharmaceuticals.webp"
+    },
+    {
+      "Id": "D:\\Projects\\WSD_Project\\Online Medical Store\\Online Medical Store\\wwwroot\\Hydrosil.webp",
+      "PackagePath": "staticwebassets\\Hydrosil.webp"
+    },
+    {
+      "Id": "D:\\Projects\\WSD_Project\\Online Medical Store\\Online Medical Store\\wwwroot\\Paracetamol-Unimax Laboratries.webp",
+      "PackagePath": "staticwebassets\\Paracetamol-Unimax Laboratries.webp"
+    },
+    {
+      "Id": "D:\\Projects\\WSD_Project\\Online Medical Store\\Online Medical Store\\wwwroot\\Rbson D.webp",
+      "PackagePath": "staticwebassets\\Rbson D.webp"
+    },
+    {
+      "Id": "D:\\Projects\\WSD_Project\\Online Medical Store\\Online Medical Store\\wwwroot\\calcium.webp",
+      "PackagePath": "staticwebassets\\calcium.webp"
+    },
+    {
+      "Id": "D:\\Projects\\WSD_Project\\Online Medical Store\\Online Medical Store\\wwwroot\\digoxin-Alchem International Pvt. Ltd..webp",
+      "PackagePath": "staticwebassets\\digoxin-Alchem International Pvt. Ltd..webp"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Online Medical Store.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Online Medical Store.props",
+      "PackagePath": "build\\Online Medical Store.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Online Medical Store.props",
+      "PackagePath": "buildMultiTargeting\\Online Medical Store.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Online Medical Store.props",
+      "PackagePath": "buildTransitive\\Online Medical Store.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
